@@ -2,7 +2,7 @@ These are the associated files for the [NewBrain.io](www.newbrain.io) '[Keep you
 
 Follow along with the blog post, or to test the final product:
 
-###0. Verify Node.js & npm are install
+### 0. Verify Node.js & npm are install
 ```
 npm -v
 ```
