@@ -13,7 +13,7 @@ This should return the version for npm.  If it does not, install [node.js](https
 npm i -g eslint
 ```
 
-###2. Install Gulp & ESLing Gulp pluggin
+### 2. Install Gulp & ESLing Gulp pluggin
 ```
 npm i gulp gulp-eslint
 ```
