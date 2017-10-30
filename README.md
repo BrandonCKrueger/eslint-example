@@ -8,7 +8,7 @@ npm -v
 ```
 This should return the version for npm.  If it does not, install [node.js](https://nodejs.org/)
 
-###1. Install ESLint Globally
+### 1. Install ESLint Globally
 ```
 npm i -g eslint
 ```
