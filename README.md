@@ -18,7 +18,7 @@ npm i -g eslint
 npm i gulp gulp-eslint
 ```
 
-###3. Start Gulp
+### 3. Start Gulp
 ```
 gulp
 ```
